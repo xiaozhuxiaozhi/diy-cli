@@ -1,14 +1,14 @@
 {
   "name": "diy-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a DIY CLI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create": "bin/create",
-    "create-init": "bin/create-init"
+    "struct": "bin/struct",
+    "struct-init": "bin/struct-init"
   },
   "keywords": [],
   "author": "",
