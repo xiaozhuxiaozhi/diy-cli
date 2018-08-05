@@ -1,4 +1,4 @@
-#!/usr/bin/env node    //必须放到文件开头
+#!/usr/bin/env node --harmony
 
 const program = require('commander');
 
